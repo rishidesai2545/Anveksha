@@ -93,5 +93,5 @@ This project is for educational and ethical use only. Licensed under the MIT Lic
 ## ✍️ Author
 
 **Rishi Desai**  
-[GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile)
+[GitHub](https://github.com/rishidesai2545) | [LinkedIn](https://linkedin.com/in/rishidesai2545)
 
